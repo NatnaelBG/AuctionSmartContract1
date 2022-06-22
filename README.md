@@ -1,6 +1,3 @@
-# AuctionSmartContract1
-Auction smart contract
-
 The following script can be used to auction NFTs. Digital as well as real world
 assets can be turned to NFTs which can then be auctioned using the following
 smart contract.
